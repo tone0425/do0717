@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;300;400;500;700;900&display=swap");
 
-body {
-  font-family: "Noto Sans TC", sans-serif !important;
+* {
+  font-family: "Noto Sans TC", "Arial", sans-serif;
 }
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
