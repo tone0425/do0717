@@ -1,3 +1,8 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+body {
+  /* Noto Sans TC 這個 思源黑體 */
+  font-family: "Arial", "PingFang", "Noto Sans TC", "sans-serif";
+}
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -105,10 +110,7 @@ nav,
 section {
   display: block;
 }
-body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft JhengHei", Roboto, "Helvetica Neue", Arial, sans-serif;
-  line-height: 1.5;
-}
+
 ol,
 ul {
   list-style: none;
